@@ -1,4 +1,4 @@
-package Java_interview_questions;
+package Nasiba;
 
 public class FINRA {
     public static void main(String[] args) {

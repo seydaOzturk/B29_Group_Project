@@ -1,4 +1,4 @@
-package Java_interview_questions;
+package Nasiba;
 
 public class DivisibleBy3_5_15 {
 
