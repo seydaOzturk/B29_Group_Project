@@ -4,7 +4,7 @@ public class DivideWithoutOperator {
 
     public static void main(String[] args) {
 
-        System.out.println("divideWithoutOperator(45) = " + divideWithoutOperator(45));
+        System.out.println("divideWithoutOperator(45) = " + divideWithoutOperator(45, 76));
 
 
     }
