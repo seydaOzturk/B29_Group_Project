@@ -1,4 +1,4 @@
-package Java_interview_questions;
+package Seyda;
 
 import java.util.Scanner;
 
