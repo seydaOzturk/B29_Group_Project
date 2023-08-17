@@ -6,10 +6,7 @@ import java.util.List;
 
 public class SortDescending {
     //todo:
-    //Array_SortDescending
-    //Write a return method that can sort an int array in descending order without using the sort method of the Arrays class
-    //Ex: int[] arr = {10,20,7, 8, 90};
-    //arr = sortDecending(arr); ==> {90, 20, 10, 8, 7};
+    //Write a method that can sort the ArrayList in Descending order without using the sort method.
 
     public static void main(String[] args) {
         ArrayList<Integer> newList = new ArrayList<>();
