@@ -6,10 +6,7 @@ import java.util.List;
 
 public class SortAscending {
     //todo:
-    //Array_SortAscending
-    //Write a return method that can sort an int array in Ascending order without using the sort method of the Arrays class
-    //Ex: int[] arr = {10, 9, 8, 7};
-    //arr = sortAscending(arr); ==>{ 7, 8, 9, 10};
+    //Write a method that can sort the ArrayList in Ascending order without using the sort method.
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>(Arrays.asList(10, 9, 8, 7));
         System.out.println(sortAscendingOrder(list));
